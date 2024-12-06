@@ -18,15 +18,10 @@ This repository provides a collection of test files specifically designed for ch
 | **More Formats** | Additional file types such as compressed archives or audio files. |
 | **GitHub Actions** | Automated workflows to validate checksums in the repository. |
 
-## Prerequisites
-
-Before using this repository, make sure you have the following installed:
-
-- [ChecksumCheck](https://github.com/Miiraak/ChecksumCheck)
-
 ## Usage
 
-Clone the repository and use the included files for testing your checksum validation tools. You can also use the utilities provided in the `/tools` directory to generate or verify checksums.
+Clone the repository and use the included files for testing your checksum validation tools. You can also use the utilities provided in the `/tools` directory to generate or verify checksums. <br>
+Feel free to test my [ChecksumCheck](https://github.com/Miiraak/ChecksumCheck) 🫀
 
 ## Contributing
 
@@ -49,7 +44,4 @@ This project is licensed under the [LICENSE_NAME]. See the [LICENSE](./LICENSE) 
 
 ## Authors
 
-**Miiraak** - *Lead Developer* - [GitHub Profile](https://github.com/Miiraak)
-
-**Other Contributors** : 
-- [CONTRIBUTOR_NAME](https://github.com/his-username/)
+- [**Miiraak**](https://github.com/Miiraak) - *Lead Developer* 
