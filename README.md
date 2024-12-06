@@ -6,7 +6,7 @@ This repository provides a collection of test files specifically designed for ch
 
 ## Features
 - **Test Files**:
-  - Sizes: 1 KB, 100 KB, 1 MB, 100 MB, 1 GB.
+  - Sizes: 1 Kio, 100 Kio, 1 Mio, 100 Mio, 1 Gio.
   - Various formats: text, binary, image, video, and more.
 - **Practical Tools**:
   - Scripts and utilities to generate or verify checksums.
